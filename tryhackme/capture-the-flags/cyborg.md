@@ -1,5 +1,9 @@
 # Cyborg
 
+## ENUMERACIÓN
+
+### ESCANEO DE PUERTOS
+
 En primer lugar, al llevar a cabo una evaluación de la conectividad con nuestra máquina objetivo, resulta beneficioso ejecutar un comando de ping que envía un único paquete. El propósito de este comando es comprobar si hay una respuesta exitosa desde la dirección IP específica que deseamos verificar.
 
 {% code lineNumbers="true" %}
