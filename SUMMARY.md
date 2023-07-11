@@ -30,6 +30,7 @@
   * [Gotta Catch'em All!](tryhackme/capture-the-flags/gotta-catchem-all.md)
   * [CyberHeroes](tryhackme/capture-the-flags/cyberheroes.md)
   * [Cyborg](tryhackme/capture-the-flags/cyborg.md)
+  * [Brooklyn Nine Nine](tryhackme/capture-the-flags/brooklyn-nine-nine.md)
   * [Ignite](tryhackme/capture-the-flags/ignite.md)
 
 ## Reference
