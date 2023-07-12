@@ -31,6 +31,7 @@
   * [CyberHeroes](tryhackme/capture-the-flags/cyberheroes.md)
   * [Cyborg](tryhackme/capture-the-flags/cyborg.md)
   * [Brooklyn Nine Nine](tryhackme/capture-the-flags/brooklyn-nine-nine.md)
+  * [Wgel CTF](tryhackme/capture-the-flags/wgel-ctf.md)
   * [Ignite](tryhackme/capture-the-flags/ignite.md)
 
 ## Reference
