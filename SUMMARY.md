@@ -7,9 +7,9 @@
 
 * [Introducción](java/introduccion.md)
 * [IDE](java/ide/README.md)
-  * [Eclipse](java/ide/eclipse.md)
+  * [Eclipse](java/ide/eclipse/README.md)
+    * [Spring Tool](java/ide/eclipse/spring-tool.md)
   * [Visual Studio Code](java/ide/visual-studio-code.md)
-  * [Spring Tool](java/ide/spring-tool.md)
 
 ## Cybersecurity
 
